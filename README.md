@@ -1,2 +1,2 @@
-# design_patterns_in_ruby
+# Design Patterns in Ruby
 Notes of "Design Patterns in Ruby" Book
